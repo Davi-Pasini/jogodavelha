@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\bin\Debug\net8.0\JOGODAVEIA.exe
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\bin\Debug\net8.0\JOGODAVEIA.deps.json
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\bin\Debug\net8.0\JOGODAVEIA.runtimeconfig.json
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\bin\Debug\net8.0\JOGODAVEIA.dll
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\bin\Debug\net8.0\JOGODAVEIA.pdb
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.AssemblyInfo.cs
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.dll
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\refint\JOGODAVEIA.dll
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.pdb
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\JOGODAVEIA.genruntimeconfig.cache
+C:\Users\user\Desktop\JOGODAVEIA\JOGODAVEIA\obj\Debug\net8.0\ref\JOGODAVEIA.dll
